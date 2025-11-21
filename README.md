@@ -32,7 +32,7 @@
 
 ---
 
-## Solved.ac
+## ✨ Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arin000)](https://solved.ac/arin000)
 
 ---
