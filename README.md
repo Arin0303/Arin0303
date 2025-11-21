@@ -6,6 +6,19 @@
 🌱 I enjoy learning new technologies and contributing positive impacts.
 
 ---
+
+## 📊 GitHub Stats
+
+![아린님의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arin0303&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arin0303&layout=compact&theme=radical)
+
+---
+
+## ✨ Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arin000)](https://solved.ac/arin000)
+
+---
+
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -29,18 +42,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
 
 </div>
-
----
-
-## ✨ Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arin000)](https://solved.ac/arin000)
-
----
-
-## 📊 GitHub Stats
-
-![아린님의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arin0303&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arin0303&layout=compact&theme=radical)
 
 ---
 
