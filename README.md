@@ -32,6 +32,11 @@
 
 ---
 
+## Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arin000)](https://solved.ac/arin000)
+
+---
+
 ## 📊 GitHub Stats
 
 ![아린님의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arin0303&show_icons=true&theme=radical)
