@@ -1,9 +1,9 @@
-# 👋Hi, I'm Arin
+# 👋Welcome to my GitHub!
 
 
-👩‍💻 I'm a backend developer.  
+👩‍💻 I'm a backend engineer.  
 
-🌱 I enjoy learning new technologies and contributing positive impacts.
+🌱 I'm interested in clean code and improving developer productivity
 
 ---
 
