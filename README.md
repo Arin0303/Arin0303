@@ -14,9 +14,6 @@
 
 ---
 
-## ✨ Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arin000)](https://solved.ac/arin000)
-
 ---
 
 ## 🛠 Tech Stack
@@ -47,7 +44,7 @@
 
 ## 📫 Contact
 
-- ✉️ Email: cindy030225@gmail.com
+- ✉️ Email: ape4246@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/arin](https://www.linkedin.com/in/%EC%95%84%EB%A6%B0-%EB%82%A8-8a44a3272/)  
 - 🌐 Blog: [velog.io/@arin_0303](https://velog.io/@arin_0303/series)  
 - 📸 Instagram: [instagram.com/ari2n_n](https://www.instagram.com/ari2n_n/)
