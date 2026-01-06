@@ -7,15 +7,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![아린님의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arin0303&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arin0303&layout=compact&theme=radical)
-
----
-
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
