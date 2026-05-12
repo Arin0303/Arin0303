@@ -36,5 +36,4 @@
 
 - ✉️ Email: ape4246@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/arin](https://www.linkedin.com/in/%EC%95%84%EB%A6%B0-%EB%82%A8-8a44a3272/)  
-- 🌐 Blog: [velog.io/@arin_0303](https://velog.io/@arin_0303/series)  
-- 📸 Instagram: [instagram.com/ari2n_n](https://www.instagram.com/ari2n_n/)
+- 🌐 Tech Blog: [velog.io/@arin_0303](https://velog.io/@arin_0303/series)  
