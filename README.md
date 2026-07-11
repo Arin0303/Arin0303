@@ -1,10 +1,5 @@
 # 👋Welcome to my GitHub!
 
-
-👩‍💻 I'm a backend engineer.  
-
-🌱 I'm interested in clean code and improving developer productivity
-
 ---
 
 ## 🛠 Tech Stack
